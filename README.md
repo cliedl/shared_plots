@@ -1,6 +1,6 @@
 # Repository for shared plots
 
-This includes some shared plots, that are going to be served using GitHub pages
+This includes some shared plots, served using GitHub pages
 
 ## List of shared plots:
 
